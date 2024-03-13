@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.img1 {
+ width: 100px;
+}
+
+.img2 {
+    width:100px;
+}
+
+.img3 {
+    width: 200px;
+
+}
+
+section, .imgs-div{
+    display: flex;
+}
+
+.imgs-div{
+    margin-left: 30%;
+    display: flex;
+    gap: 80px;
+}
+
+p{
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+}
+
